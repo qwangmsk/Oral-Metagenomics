@@ -1,7 +1,7 @@
 Oral Metagenomics
 ----------
 
-The Python code provided here was used to generate some of the results for a preprint paper entitled "Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus". This project is in collaberation with Prof. Hua Xie at Meharry Medical College. 
+The Python code provided here was used to generate some of the results for a preprint paper entitled "Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus". This project is led by Professor Hua Xie at Meharry Medical College. 
 
 Citation
 ----------
