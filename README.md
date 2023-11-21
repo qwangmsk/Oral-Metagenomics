@@ -4,7 +4,7 @@ Periodontitis has been recently defined as a dysbiotic disease resulting from im
 
 This present study intends to determine the role of Streptococcus cristatus in altering interactions of P. gingivalis with other oral bacteria in a complex context. We collected dental plaque samples from periodontitis patients and assigned them into two groups based on their ratios of S. cristatus and P. gingivalis. We then characterized microbial profiles of the dental plaque samples using shotgun metagenomic sequencing and subsequently compared oral microbial composition and functional capabilities between groups with high or low S. cristatus-P. gingivalis ratios. 
 
-The Python code provided here was used to generate some of the results for a preprint paper entitled "Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus". This project is led by Professor Hua Xie at Meharry Medical College. More imformation will be provided at this site once our paper is formally published.
+The Python code provided here was used to generate some of the results for a preprint paper entitled "Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus". More imformation will be provided at this site once our paper is formally published.
 
 Citation
 ----------
