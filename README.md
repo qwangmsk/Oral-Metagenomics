@@ -8,4 +8,4 @@ The Python code provided here was used to generate some of the results for a pre
 
 Citation
 ----------
-Q. Wang, BY. Wang, S. Pratap, H. Xie. Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus. Res. Sq. [Preprint], https://doi.org/10.21203/rs.3.rs-3266326/v1, 2023.
+Q. Wang*, BY. Wang, S. Pratap, H. Xie* (2024) Oral microbiome associated with differential ratios of Porphyromonas gingivalis and Streptococcus cristatus. Microbiology Spectrum, e03482-23. DOI: 10.1128/spectrum.03482-23. PMID: 38230927
